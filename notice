@@ -1,0 +1,9 @@
+whene you create a container 
+check bash script 
+and type command
+bash new_pxe.sh
+check all service 
+systemctl start httpd
+systemctl start dhcpd
+systemctl start xinetd
+systemctl start tftp
